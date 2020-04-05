@@ -7,6 +7,6 @@
   <br>
 </h1>
 
-<h3 align="center">...</h3>
+<h3 align="center">....</h3>
 
 <h4 align="center">Learning Javascript, Starting From Scratch and Going on to Advanced Concepts</h4>
