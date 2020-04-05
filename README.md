@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <img src="images/Learn-JavaScript-For-Web-Development.jpg" width="600">
+  <img src="images/Learn-JavaScript.jpg" width="600">
   <br>
     <br>
   Learning JavaScript
